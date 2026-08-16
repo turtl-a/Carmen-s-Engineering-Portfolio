@@ -6,6 +6,18 @@ As the new steering co-lead I was tasked with redesigning the upper steering col
 
 *Initial Upper Column Design*
 
+Problems:
+* Too long; interfered with drivers ability to enter and exit the car
+* Shaft Coupler had no way to prevent the steering wheel from being pushed inward
+
+Solutions:
+* Rotated the gearbox 90 degrees to give drivers extra space
+* Added a hard point nested into the coupler to prevent movement
+
+![Detailed Side View of Upper Assembly](Images/1_progress_upper)
+
+New design drawing following feedback from seniors
+
 ![Detailed Side View of Upper Assembly](Images/side_view_upper.png)
 
 *Side view of the Upper Steering Assembly in Siemen's NX*
