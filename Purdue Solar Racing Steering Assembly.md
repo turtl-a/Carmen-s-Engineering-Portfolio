@@ -14,7 +14,7 @@ Solutions:
 * Rotated the gearbox 90 degrees to give drivers extra space
 * Added a hard point nested into the coupler to prevent movement
 
-![Detailed Side View of Upper Assembly](Images/1_progress_upper)
+![Detailed Side View of Upper Assembly](Images/1_progress_upper.png)
 
 New design drawing following feedback from seniors
 
