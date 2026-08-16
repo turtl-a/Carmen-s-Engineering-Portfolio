@@ -34,7 +34,8 @@ Pros
 * All steering parts were manufactured on time for competition
 * No major issues reported during assembly or manufacturing
 
-Final product:
+Semi-Final Product:
+
 ![Whole Assembly View](Images/final_assembly.png)
 
 
