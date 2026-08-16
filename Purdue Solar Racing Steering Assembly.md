@@ -6,11 +6,11 @@ As the new steering co-lead I was tasked with redesigning the upper steering col
 
 *Initial Upper Column Design*
 
-##Problems:
+##Problems:##
 * Too long; interfered with drivers ability to enter and exit the car
 * Shaft Coupler had no way to prevent the steering wheel from being pushed inward
 
-##Solutions:
+##Solutions:##
 * Rotated the gearbox 90 degrees to give drivers extra space
 * Added a hard point nested into the coupler to prevent movement
 
