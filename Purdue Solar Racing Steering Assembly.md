@@ -35,7 +35,7 @@ Pros
 * No major issues reported during assembly or manufacturing
 
 Final product:
-![Whole Assembly View](Images/final_assembly)
+![Whole Assembly View](Images/final_assembly.png)
 
 
 
