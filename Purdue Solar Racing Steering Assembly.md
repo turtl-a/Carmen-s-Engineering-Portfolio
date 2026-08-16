@@ -6,11 +6,11 @@ As the new steering co-lead I was tasked with redesigning the upper steering col
 
 *Initial Upper Column Design*
 
-##Problems:##
+Problems:
 * Too long; interfered with drivers ability to enter and exit the car
 * Shaft Coupler had no way to prevent the steering wheel from being pushed inward
 
-##Solutions:##
+Solutions:
 * Rotated the gearbox 90 degrees to give drivers extra space
 * Added a hard point nested into the coupler to prevent movement
 
@@ -26,8 +26,16 @@ New design drawing following feedback from seniors
 
 *3D view of the upper and lower Steering Assembly in Siemen's NX*
 
-##Remaining Issues
-* 
+Remaining Issues
+* Assembly collision in lower shaft coupler
+* Redundant spacers due to changes being last minute
+
+Pros
+* All steering parts were manufactured on time for competition
+* No major issues reported during assembly or manufacturing
+
+Final product:
+![Whole Assembly View](Images/final_assembly)
 
 
 
