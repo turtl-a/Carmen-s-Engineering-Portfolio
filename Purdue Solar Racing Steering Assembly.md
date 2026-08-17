@@ -65,11 +65,11 @@ Plans to fix remaining issues:
 * Remove collision in lower steering column
 
 Lessons learned for the next car:
-    * Ensure mounting spaces on the chassis are made to fit steering components to remove the need for spacers between the gearbox and trusses
-    * Make sure all parts are easy to order to prevent last minute changes
-    * Better team organization to ensure manufacturing deadlines are met through consistent meetings and new member inclusion
-    * Account for lower safety factors earlier in the design process to prevent last minute changes
-    * Create thorough documentation of all design decisions so team members and leads have more guidance going into the steering design and manufacturing processes
+* Ensure mounting spaces on the chassis are made to fit steering components to remove the need for spacers between the gearbox and trusses
+* Make sure all parts are easy to order to prevent last minute changes
+* Better team organization to ensure manufacturing deadlines are met through consistent meetings and new member inclusion
+* Account for lower safety factors earlier in the design process to prevent last minute changes
+* Create thorough documentation of all design decisions so team members and leads have more guidance going into the steering design and manufacturing processes
 
 
 
