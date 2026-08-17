@@ -50,7 +50,8 @@ Future Plans
 * Remove collision in lower steering column
 * For the next car:
     * Ensure mounting spaces on the chassis are made to fit steering components to remove the need for spacers
-    * 
+    * Make sure all parts are easy to order to prevent last minute changes
+    * Better team organization to ensure manufacturing deadlines are met through consistent meetings and new member inclusion
 
 
 
