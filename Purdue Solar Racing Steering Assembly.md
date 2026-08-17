@@ -17,8 +17,12 @@ Solutions:
 ![Detailed Side View of Upper Assembly](Images/1_progress_upper.png)
 
 New design drawing following feedback from seniors
-* Black: New truss design to account for gearbox rotation
-* 
+* Black (left): New truss design
+* Black(right): Gearbox/Steering wheel shaft coupler
+* Red: Mounting hardware
+* Purple: Spacers
+* Brown: Bearing
+* Blue: Bearing block
 
 ![Detailed Side View of Upper Assembly](Images/side_view_upper.png)
 
