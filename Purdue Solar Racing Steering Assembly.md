@@ -35,6 +35,7 @@ New design drawing following feedback from seniors
 Remaining Issues
 * Assembly collision in lower shaft coupler in CAD
 * Since the mounting points on the chassis were already defined, we had to make some redundant spacers between the gearbox and trusses to maintain the same mounting position
+* Object linking issues with the truss and mounting brackets
 
 Pros
 * All steering parts were manufactured on time for competition
@@ -44,6 +45,12 @@ Semi-Final Product:
 
 ![Whole Assembly View](Images/final_assembly.png)
 
+Future Plans
+* Develop better wave linking strategies to prevent truss geometry issues
+* Remove collision in lower steering column
+* For the next car:
+    * Ensure mounting spaces on the chassis are made to fit steering components to remove the need for spacers
+    * 
 
 
 
