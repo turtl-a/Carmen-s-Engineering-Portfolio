@@ -1,6 +1,6 @@
 # Purdue Solar Racing Steering Assembly
 
-As the new steering co-lead I was tasked with redesigning the upper steering column assembly prior to the American Solar Challenge due to a last minute change we had to make to our bevel gear box. Since it was my first large design assignment on the team, I received lots of feed back from the team's senior members to ensure the design was feasible given our manufacturing capabilities and time constraints.
+As the new steering co-lead I was tasked with redesigning the upper steering column assembly prior to the American Solar Challenge due to a last minute change we had to make to our bevel gear box a month before competition. Since it was my first large design assignment on the team, I received lots of feed back from the team's senior members to ensure the design was feasible given our manufacturing capabilities and time constraints.
 
 ![Detailed Side View of Upper Assembly](Images/design_iteration.png)
 
@@ -33,8 +33,8 @@ New design drawing following feedback from seniors
 *3D view of the upper and lower Steering Assembly in Siemen's NX*
 
 Remaining Issues
-* Assembly collision in lower shaft coupler
-* Redundant spacers due to changes being last minute
+* Assembly collision in lower shaft coupler in CAD
+* Since the mounting points on the chassis were already defined, we had to make some redundant spacers between the gearbox and trusses to maintain the same mounting position
 
 Pros
 * All steering parts were manufactured on time for competition
