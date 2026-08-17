@@ -14,7 +14,7 @@ Issues:
 *Initial Upper Column Design*
 
 Solved Issues:
-* Safety factor now over 1
+* Truss safety factor now over 1
 * Gearbox changed to one that's readily available
 
 Problems:
@@ -64,7 +64,7 @@ Plans to fix remaining issues:
 * Develop better wave linking strategies to prevent truss geometry issues
 * Remove collision in lower steering column
 
-* Lessons learned for the next car:
+Lessons learned for the next car:
     * Ensure mounting spaces on the chassis are made to fit steering components to remove the need for spacers between the gearbox and trusses
     * Make sure all parts are easy to order to prevent last minute changes
     * Better team organization to ensure manufacturing deadlines are met through consistent meetings and new member inclusion
